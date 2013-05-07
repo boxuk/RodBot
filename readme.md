@@ -11,7 +11,7 @@ Being rodded is the greatest shame a BoxUKer can endure.
 
 Check out the repo
 
-    got clone git@github.com:stevehalford/RodBot.git 
+    git clone git@github.com:stevehalford/RodBot.git 
 
 Create a config.json file and input your server credentials
 
